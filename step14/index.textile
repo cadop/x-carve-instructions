@@ -253,6 +253,8 @@ Strip one end of the black and yellow stranded wire. Use the header connectors t
 
 Insert the crimped pins into the header connector as shown. They should click when they are in far enough and you should be able to pull gently on the wire without the pins coming out. Strip the other end of the black and yellow stranded wire. Insert them into the small green terminal block and press it into the Power Supply Interface.
 
+Note: If using the 48vdc spindle or other DC motor with a different power supply, the easiest setup is to buy another PCB cover for the power supply. Then the black and yellow wires as well as the spindle power and ground will go to the other power supply(48vdc). 
+
 <div class="row image-row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/886/original/1177.jpg?1427993108! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/887/original/1182.jpg?1427993109! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/885/original/1187.jpg?1427992867! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/884/original/1189.jpg?1427992866!
 </div>
 
